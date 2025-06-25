@@ -14,3 +14,17 @@ Online Delivery Impact: Determined the percentage of restaurants offering online
 
 These tasks helped to build core skills in data cleaning, grouping, aggregation, and visualization using Python, Pandas, and Matplotlib.
 
+Level- 2
+
+Task Descriptions
+1. Ratings Distribution -
+Checked how restaurant ratings are spread out and found the most common rating values.
+
+2. Cuisine Combinations -
+Found which cuisine combinations are most common and checked if some get better ratings than others.
+
+3. Restaurant Locations on Map -
+Plotted restaurant locations on a map using their latitude and longitude to see where they are located.
+
+4. Restaurant Chains -
+Found restaurant chains by checking which names appear more than once. Then analyzed how many outlets they have and what their average ratings are.
